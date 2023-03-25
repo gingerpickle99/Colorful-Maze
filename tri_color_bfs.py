@@ -29,7 +29,7 @@ def bfs_modified(graph, s, t):
                 queue.append((i,next))
                 no_of_edges[i][next]=no_of_edges[node[0]][node[1]]+1
                 parent[i][next]=node[0]
-    
+
     #print(parent)
     path=[]
 

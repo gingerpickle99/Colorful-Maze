@@ -2,7 +2,7 @@
 
 This Python code is an implementation of the Breadth-First Search (BFS) algorithm on a tri-colored graph. The graph has nodes connected by edges of three different colors: red, yellow, and blue. The code finds the shortest path from a given source node `s` to a target node `t` such that the path starts with a red edge, ends with a blue edge, and follows a specific color order: red → yellow → blue in a cyclic manner.
 
-**Note**: It could even handle multiple edges of different colors between two nodes.
+**Note**: Code could even handle multiple edges of different colors between two nodes.
 
 ## Usage
 

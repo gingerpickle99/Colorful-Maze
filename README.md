@@ -19,6 +19,7 @@ The time complexity of the BFS algorithm on a tri-colored graph is O(3N + E), wh
 ![Example graph](image.png)
 ### Sample output
 **path**: 0--red--> 4--yellow--> 5--blue--> 9--red--> 10--yellow--> 15--blue--> 11--red--> 7--yellow--> 6--blue--> 10--red--> 9--yellow--> 14--blue--> 15
+
 *test.ipynb* contains the sample code for the above graph.
 
 ## References

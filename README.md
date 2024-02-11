@@ -8,8 +8,8 @@ This Python code is an implementation of the Breadth-First Search (BFS) algorith
 
 The main function of the code is `bfs_modified(graph, s, t)`, which takes three inputs:
 - `graph`: A tuple containing three dictionaries (one for each color) and total number of nodes.
-- `s`: The source node.
-- `t`: The target node.
+- `s`: The source node
+- `t`: The target node
 
 To use the code, simply import the `bfs_modified` function and call it with the desired input graph, source node, and target node.
 
